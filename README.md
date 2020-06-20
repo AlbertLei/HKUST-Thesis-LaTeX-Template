@@ -10,9 +10,9 @@
 
 1. 打开 `preliminary.tex` 文件，修改你的名字、致谢等部分；
 
-1. 将三篇论文的参考文献写入 `Thesis.bib` 文件；
+1. 将三篇论文的参考文献全部写入 `Thesis.bib` 文件；
 
-1. 将三篇论文的 LaTeX 源码按次序写入 `chapter1.tex`, `chapter2.tex`, `chapter3.tex`.
+1. 最后也是最关键的一部，将三篇论文的 LaTeX 源码按次序写入 `chapter1.tex`, `chapter2.tex`, `chapter3.tex`. 请根据模板格式，适当修改你的 LaTeX 文件。如文章标题不再是 `\title{name}`, 而是 `\chapter{name}`。
 
 搞定。如果你只有两篇论文，在 `main.tex` 文件中删去 `\include{chapter3}` (Line 15) 即可。
 
