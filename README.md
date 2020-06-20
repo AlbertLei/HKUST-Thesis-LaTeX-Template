@@ -10,7 +10,7 @@
 
 1. 打开 `preliminary.tex` 文件，修改你的名字、致谢等部分；
 
-1. 将三篇文章的参考文献写入 `Thesis.bib` 文件；
+1. 将三篇论文的参考文献写入 `Thesis.bib` 文件；
 
 1. 将三篇论文的 LaTeX 源码按次序写入 `chapter1.tex`, `chapter2.tex`, `chapter3.tex`.
 
