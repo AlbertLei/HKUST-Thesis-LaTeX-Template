@@ -1,6 +1,6 @@
 ## 说明
 
-本模板适用于 HKUST 经济学博士 thesis. 用户可下载 `UST-thesis-Template.zip` 本地运行，也可使用 overleaf [模板在线编译](https://www.overleaf.com/read/hbbwnvpyjskf)。建议使用 overleaf 在线编译，因为模板使用了 `chapterbib` 包，本地运行需进行多次编译。
+本模板适用于 HKUST 经济学博士 thesis. 用户可下载 `HKUST-thesis-LaTeX-Template.zip` 本地运行，也可使用 overleaf [模板在线编译](https://www.overleaf.com/read/hbbwnvpyjskf)。建议使用 overleaf 在线编译，因为模板使用了 `chapterbib` 包，本地运行需进行多次编译。
 
 本模板基于科大[数学系论文模板](https://www.math.ust.hk/intranet/pg.php)，进行了些许修改使它更符合经济系论文格式要求。已有经济系博士使用此模板，于 2019 年成功毕业。请放心使用。
 
